@@ -10,11 +10,11 @@ L'objectif de ce TP est de se familiariser avec Python et PyTorch en résolvant 
 
 ### 1. Réponses Mathématiques
 
-Les réponses aux questions mathématiques et calculatoires sont présentées de manière manuscrite. Vous trouverez ces documents scannés dans le dossier `Réponses_Manuscrites`.
+Les réponses aux questions mathématiques et calculatoires sont présentées de manière manuscrite. Vous trouverez ces documents scannés.
 
 ### 2. Code Source
 
-Les scripts Python utilisés pour répondre aux questions du TP et pour implémenter les algorithmes de machine learning se trouvent dans le dossier `Code_Source`. Ce dépôt contient des implémentations des méthodes suivantes :
+Ce dépôt contient des implémentations les méthodes suivantes :
 - Génération de données scalaires et bruitées
 - Régression linéaire utilisant la méthode des moindres carrés
 - Utilisation de bibliothèques telles que NumPy et SciPy
